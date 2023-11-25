@@ -1,11 +1,17 @@
 # maicon ermani manarin
 ---
-> bem vindo ao meu portifólio
-A seguir estão minha principais habilidades
+> Bem vindo ao meu portifólio
+>A seguir estão minha principais habilidades
 >
-> 1. programação em java
+> 1. Programação em Java
 > 1. criação de projetos em arduino
->
+
 ## Contato
 
-> Acese  meu [Linkedin]
+> Acesse meu [Linkedin](HTTPS://www.linkedin.com/in/maicon2024/)
+
+
+## Gostaria de participar do projeto?
+
+[ ]-Sim
+[ ]-Não
